@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: handling mixed data types in arithmetic operations.  The `bug.py` file contains the erroneous code which causes a `TypeError` when it encounters a non-numeric value. The corrected version in `bugSolution.py` handles this by checking the data types before performing calculations and raising a more descriptive error message.
